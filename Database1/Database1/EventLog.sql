@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[EventLog]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
